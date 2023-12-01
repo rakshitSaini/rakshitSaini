@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rakshitSaini
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in field of Data
 - 🌱 I’m currently learning python libraries and sql
 - 💞️ I’m looking to collaborate for project of pyhton
-- 📫 How to reach me @rakshitt_saini on instagram
+- 📫 How to reach me rakshitsaini234@gmail.com
 
 <!---
 rakshitSaini/rakshitSaini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
