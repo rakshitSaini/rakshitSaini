@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rakshitSaini
 - 👀 I’m interested in field of Data
-- 💞️ I’m looking to collaborate for project of python
+- 💞️ I’m looking to collaborate for project of Data Analysis 
 - 📫 How to reach me rakshitsaini234@gmail.com
 
 <!---
